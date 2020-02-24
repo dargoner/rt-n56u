@@ -1,4 +1,4 @@
-name: Build K2P-5.0
+name: Build K2P-5
 
 on: 
   release:
